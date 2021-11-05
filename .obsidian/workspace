@@ -1,0 +1,101 @@
+{
+  "main": {
+    "id": "9df3263b26df6448",
+    "type": "split",
+    "children": [
+      {
+        "id": "23ae972be25c3328",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "CAL I/Integration.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5e18423aad948f14",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef5f0d850f80b17b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f18afe795c0383d7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d29660e3e63a8821",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dc4cd246e7241162",
+    "type": "split",
+    "children": [
+      {
+        "id": "c655ac00554a8e43",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee69be9847853ba8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CAL I/Integration.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "23ae972be25c3328",
+  "lastOpenFiles": [
+    "CAL I/Integration.md",
+    "ECON I/The Costs of Production.md",
+    "ECON I/Firms in Competitive Markets.md",
+    "ECON I/surplus.png",
+    "ECON I/lratc.png",
+    "ECON I/cost-curve.png",
+    "ECON I/Oligopoly.md",
+    "ECON I/Monopolistic Competition.md",
+    "ECON I/Monopoly.md"
+  ]
+}

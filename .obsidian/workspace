@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CAL I/Integration.md",
+            "file": "ECON I/Monopoly.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CAL I/Integration.md",
+                "file": "ECON I/Monopoly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,14 +88,15 @@
   },
   "active": "23ae972be25c3328",
   "lastOpenFiles": [
-    "CAL I/Integration.md",
+    "ECON I/Monopoly.md",
     "ECON I/The Costs of Production.md",
     "ECON I/Firms in Competitive Markets.md",
-    "ECON I/surplus.png",
-    "ECON I/lratc.png",
-    "ECON I/cost-curve.png",
+    "ECON I/monopoly-curve.png",
     "ECON I/Oligopoly.md",
     "ECON I/Monopolistic Competition.md",
-    "ECON I/Monopoly.md"
+    "CAL I/Integration.md",
+    "ECON I/surplus.png",
+    "ECON I/lratc.png",
+    "ECON I/cost-curve.png"
   ]
 }

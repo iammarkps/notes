@@ -29,7 +29,7 @@ When we define costs as a mathematical function, we can have $TC = FC + VC$. (FC
 
 ![[cost-curve.png]]
 
-For a typical cost curves, $MC$ crossess $AVC$ and $ATC$ at it lowest points. When $MC > ATC$ $ATC$ will increase and vice-versa. $ATC$ is U-shaped.
+For a typical cost curves, $MC$ crossess $AVC$ and $ATC$ at it lowest points. When $MC > ATC$ $ATC$ will increase and vice-versa. $ATC$ is U-shaped. ^d8e29e
 
 For short run (SR) some inputs are fixed, but for long run (LR) all inputs are varaible.
 

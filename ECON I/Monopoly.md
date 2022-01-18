@@ -26,6 +26,9 @@ Profit for monopoly firm is $(P - ATC) * Q$
 
 ## The Welfare Cost of Monopolies
 
-### DWL (Deadweight loss)
+Monopolists are not productively efficient, because they do not produce at the minimum of the average cost curve. Monopolists are not allocatively efficient, because they do not produce at the quantity where P = MC. As a result, monopolists produce less, at a higher average cost, and charge a higher price than would a combination of firms in a perfectly competitive industry. Monopolists also may lack incentives for innovation, because they need not fear entry.
 
-Because monopolist 
+### Price Discrimination
+
+Price discrimination is when you sell the same good at different price to different buyers, charging them with their willingness to pay (WTP)
+

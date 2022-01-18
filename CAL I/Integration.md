@@ -2,7 +2,7 @@
 
 ## Overview
 
-Integral is not the same as **antiderivative**, they are related, but not the same. We usually defined it with Riemann sum, but I omitted in this note for the sake of simplicity.
+Integral is not the same as **antiderivative**, they are related, but not the same. We usually defined it with Riemann sum, but I omitted in this note for the sake of simplicity. 
 
 ## Definite Integral
 

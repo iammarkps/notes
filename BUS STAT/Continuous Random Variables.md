@@ -14,6 +14,7 @@ We standardize $X$ as **z-score** $$z = \frac{x - \mu}{\sigma}$$which has mean o
 | $\mu \pm 3\sigma$ |   99.73%   |
 z-scores more than 3 or less than -3 indicate a possible outlier
 
+## Sampling
 ### Central Limit Theorem (Mean)
 For sufficiently large sample size (normally, more than 30), $\bar{X}$ will be approximately normal with mean $\mu$ and standard deviation $\frac{\sigma}{\sqrt{n}}$ , so z-scores of $\bar{X}$ distribution is $$z = \frac{x - \mu}{\frac{\sigma}{\sqrt{n}}}$$
 ### Central Limit Theorem, sampling Distribution of the Sample Proportion (Proportion)

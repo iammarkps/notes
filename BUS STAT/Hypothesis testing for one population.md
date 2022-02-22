@@ -4,7 +4,7 @@ We want to test whether the claim about statistics sample is accurate. We setup 
 
  >Jurors examine the evidence to see whether it convincingly shows a defendant is guilty. Even if the jurors leave unconvinced of guilt beyond a reasonable doubt, this does not mean they believe the defendant is innocent
 
-It means that if we have sufficient evidence, we will *reject* $H_0$ in favor of $H_1$. In contrast, if we don't have enough evidence we *fail to reject* $H_0$. Note that it does not mean that we accept $H_0$. A useful intuition about rejecting null hypothesis is we would expect a sample mean or proportion falls in rejection area just $\alpha$ of the time.
+It means that if we have sufficient evidence, we will *reject* $H_0$ in favor of $H_1$. In contrast, if we don't have enough evidence we *fail to reject* $H_0$. Note that it does not mean that we accept $H_0$. An useful intuition about rejecting null hypothesis is we would expect a sample mean or proportion falls in rejection area just $\alpha$ of the time, given that $H_0$ is true.
 
 # Methods
 
